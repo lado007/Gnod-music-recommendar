@@ -9,7 +9,7 @@ However, for that to be possible, they need to expand and improve their recommen
 been hired as a Data Analyst,they expect a mix of technical expertise and business mindset.
 
 ## Task(s)
-create a music recommendar that generates music of same cluster as of user input.
+create a music recommender that generates music of same cluster as of user input.
 ### base/test prototype
 this takes recommendations basically on only the 100 current trending music around the world
 ![test](https://github.com/lado007/Gnod-music-recommendar/blob/main/readme.images/flow1.png)
